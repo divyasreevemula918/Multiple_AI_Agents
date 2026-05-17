@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain_groq import ChatGroq
 import wikipedia
-from duckduckgo_search import DDGS
+from ddgs import DDGS
 import arxiv
 
 # ----------------------------
