@@ -7,4 +7,4 @@ langchain-community
 arxiv
 wikipedia
 streamlit
-duckduckgo-search
+duckduckgo-search==5.3.0
